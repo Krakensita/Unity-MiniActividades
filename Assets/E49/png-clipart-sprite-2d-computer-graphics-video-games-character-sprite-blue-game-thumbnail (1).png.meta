@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: 4cc7b06c4afb4dd49a609ea1efb8a31e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2104987367388610111
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_0
+  - first:
+      213: -3913534719091511045
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_1
+  - first:
+      213: -194547756138161336
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_2
+  - first:
+      213: 2563118587988422390
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_3
+  - first:
+      213: 949925354688830429
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_4
+  - first:
+      213: -8046360615376955420
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_5
+  - first:
+      213: -3998384149912889429
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_6
+  - first:
+      213: -8799200036797490473
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_7
+  - first:
+      213: -2749073834503857125
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_8
+  - first:
+      213: 8104763208244167939
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_9
+  - first:
+      213: -2132206880424516165
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_10
+  - first:
+      213: -3622960089239312254
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_11
+  - first:
+      213: -358530355649671515
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_12
+  - first:
+      213: 4930265124645291183
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_13
+  - first:
+      213: 941886324307209955
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_14
+  - first:
+      213: -5722400889232633331
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_15
+  - first:
+      213: 8710025001276942920
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_16
+  - first:
+      213: -7274113233490557284
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_17
+  - first:
+      213: -4135103337013469717
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_18
+  - first:
+      213: -6009129982431054545
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_19
+  - first:
+      213: 3752527618598899114
+    second: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+      (1)_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 123
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c10e1e542599c2e0800000000000000
+      internalID: -2104987367388610111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 342
+        width: 101
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0746468e450b9c0800000000000000
+      internalID: -3913534719091511045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 342
+        width: 104
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b1987b8d3dc4df0800000000000000
+      internalID: -194547756138161336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 342
+        width: 117
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe204a96c6029320800000000000000
+      internalID: 2563118587988422390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 342
+        width: 132
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb5d51c310de2d00800000000000000
+      internalID: 949925354688830429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 342
+        width: 92
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e753c9d6a5955090800000000000000
+      internalID: -8046360615376955420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 340
+        width: 82
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7d3ecccc2e288c0800000000000000
+      internalID: -3998384149912889429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 342
+        width: 103
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad41bcf26f2e580800000000000000
+      internalID: -8799200036797490473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 168
+        width: 70
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9319a9e359d9d0800000000000000
+      internalID: -2749073834503857125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 168
+        width: 63
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3058c007237e97070800000000000000
+      internalID: 8104763208244167939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 51
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb527a0a321e862e0800000000000000
+      internalID: -2132206880424516165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 170
+        width: 64
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288297d7ef8a8bdc0800000000000000
+      internalID: -3622960089239312254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 64
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae8e468a8e360bf0800000000000000
+      internalID: -358530355649671515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 168
+        width: 60
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4cafa5202db6440800000000000000
+      internalID: 4930265124645291183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 168
+        width: 63
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee21232f90421d00800000000000000
+      internalID: 941886324307209955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 168
+        width: 64
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02d8e6b5b2f590b0800000000000000
+      internalID: -5722400889232633331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 168
+        width: 61
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a22e9479930e870800000000000000
+      internalID: 8710025001276942920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 52
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c3d5dd882d0b90800000000000000
+      internalID: -7274113233490557284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 61
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed97c77c692d96c0800000000000000
+      internalID: -4135103337013469717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 104
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f253c046e184b9ca0800000000000000
+      internalID: -6009129982431054545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 79
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad0e64ccf7a31430800000000000000
+      internalID: 3752527618598899114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_0: -2104987367388610111
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_1: -3913534719091511045
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_10: -2132206880424516165
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_11: -3622960089239312254
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_12: -358530355649671515
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_13: 4930265124645291183
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_14: 941886324307209955
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_15: -5722400889232633331
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_16: 8710025001276942920
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_17: -7274113233490557284
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_18: -4135103337013469717
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_19: -6009129982431054545
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_2: -194547756138161336
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_20: 3752527618598899114
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_3: 2563118587988422390
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_4: 949925354688830429
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_5: -8046360615376955420
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_6: -3998384149912889429
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_7: -8799200036797490473
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_8: -2749073834503857125
+      png-clipart-sprite-2d-computer-graphics-video-games-character-sprite-blue-game-thumbnail (1)_9: 8104763208244167939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
